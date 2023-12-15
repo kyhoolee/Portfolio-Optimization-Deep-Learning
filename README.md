@@ -126,6 +126,6 @@ python dataload/make_dataset.py
 ```
 numpy==1.20.0
 pandas==1.3.4
-torch==1.7.1+cu110
+torch==2.1.1+cu110
 yfinance==0.1.67
 ```

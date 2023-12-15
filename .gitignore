@@ -1,0 +1,6 @@
+**__pycache__
+install/**
+notebooks/data/stocks
+**.pkl
+**.csv
+**.pt
